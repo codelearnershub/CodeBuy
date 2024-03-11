@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CodeBuy/obj/Debug/net7.0/CodeBuy.AssemblyInfo.cs
+/CodeBuy/obj/Debug/net7.0/CodeBuy.AssemblyInfoInputs.cache
