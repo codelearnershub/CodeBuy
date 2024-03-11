@@ -462,4 +462,17 @@ $RECYCLE.BIN/
 
 # Ignore unverified snapshot testing results
 **/*.received.txt
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+/CodeBuy/obj/Debug/net7.0/CodeBuy.assets.cache
+/CodeBuy/obj/CodeBuy.csproj.nuget.dgspec.json
+/CodeBuy/obj/CodeBuy.csproj.nuget.g.props
+/CodeBuy/obj/project.assets.json
+/CodeBuy/obj/project.nuget.cache
+/.vs/CodeBuy/FileContentIndex/0f37462c-1588-4756-86ab-f3d9319ac601.vsidx
+/.vs/CodeBuy/FileContentIndex/7b86c3d6-3e73-4d4d-a22b-8ba7c2465b1c.vsidx
+>>>>>>> 1a6c926d5b94e48a7b1a62a28cbccbc746022ece
+>>>>>>> 8cdd046c6c0cd7cf118555ca89e774311dd09f24
 /CodeBuy/obj/Debug/net7.0/CodeBuy.GeneratedMSBuildEditorConfig.editorconfig
