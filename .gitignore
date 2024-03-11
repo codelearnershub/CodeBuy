@@ -462,3 +462,4 @@ $RECYCLE.BIN/
 
 # Ignore unverified snapshot testing results
 **/*.received.txt
+/CodeBuy/obj/Debug/net7.0/CodeBuy.GeneratedMSBuildEditorConfig.editorconfig
